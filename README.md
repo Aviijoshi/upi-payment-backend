@@ -46,7 +46,9 @@ A backend system for a UPI-style digital payment application built with Node.js,
 
 ## 📁 Project Structure
 
+## Project Structure
 
+```
 Upi_Backend/
 │
 ├── src/
@@ -76,6 +78,9 @@ Upi_Backend/
 ├── package-lock.json
 ├── server.js
 └── swagger-output.json
+```
+
+
 ⚙️ Installation
 1. Clone the repository
 git clone YOUR_GITHUB_REPOSITORY_URL
